@@ -1,0 +1,21 @@
+#mastercard-img {
+    width: 30px;
+    height: 20px;
+    filter: grayscale(100%);
+    
+}
+#visa-img {
+    width: 30px;
+    height: 20px;
+    filter: grayscale(100%);
+}
+#diners-img {
+    width: 30px;
+    height: 20px;
+    filter: grayscale(100%);
+}
+#amex-img {
+    width: 30px;
+    height: 20px;
+    filter: grayscale(100%);
+}
